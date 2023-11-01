@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 15%;
+}

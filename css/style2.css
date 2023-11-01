@@ -1,0 +1,10 @@
+#nombre{
+    color: rgb(175, 28, 109);
+    text-align: center;
+
+}
+#posterPersonaje{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
